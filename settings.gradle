@@ -1,0 +1,5 @@
+rootProject.name = 'opentrading-framework'
+include 'opentrading-data'
+include 'opentrading-persistence'
+include 'opentrading-compute'
+include 'opentrading-oms'
